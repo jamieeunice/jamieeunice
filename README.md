@@ -1,6 +1,8 @@
-:coffee::keyboard:
+
 # First, coffee. Then, code.
-### Connect with me on [![LinkedIn][3.2]][3] 
+Connect with me on [![LinkedIn][3.2]][3] 
+<br>
+:coffee::keyboard:
 
 ### Lenguages and Libraries
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
