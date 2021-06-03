@@ -10,7 +10,7 @@ Connect with me on [![LinkedIn][3.2]][3]
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 ### Articles
-For current and future articles browse my Medium [Medium](https://jamieeunice.medium.com/) 
+For current and future articles browse my [Medium](https://jamieeunice.medium.com/).
 
 ### Github Stats
 ![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamieeunice&theme=graywhite&show_icons=true)
