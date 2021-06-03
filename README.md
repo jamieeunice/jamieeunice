@@ -1,4 +1,5 @@
 # First, coffee. Then, code.
+:coffee::keyboard:
 Connect with me on [![LinkedIn][3.2]][3]
 
 ### Lenguages and Libraries
