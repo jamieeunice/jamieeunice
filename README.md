@@ -2,7 +2,7 @@
 # First, :coffee:. Then, :keyboard:.
 Connect with me on [![LinkedIn][3.2]][3].
 
-### Lenguages and Libraries
+### Lenguages and Technologies
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
