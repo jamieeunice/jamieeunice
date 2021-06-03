@@ -1,12 +1,19 @@
 # First, coffee. Then, code.
-
-## Hi there, 
 Connect with me on [![LinkedIn][3.2]][3]
 
 ### Lenguages and Libraries
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+
+### Articles
+For current and future articles browse my Medium [Medium](https://jamieeunice.medium.com/) 
 
 ### Github Stats
 ![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamieeunice&theme=graywhite&show_icons=true)
+
 
 
 <!-- links to social media icons -->
