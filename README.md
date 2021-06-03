@@ -12,6 +12,10 @@ Connect with me on [![LinkedIn][3.2]][3].
 ### Articles
 For current and future articles browse my [Medium](https://jamieeunice.medium.com/).
 
+### Current OSS Contributions
+[Nuclear](https://github.com/nukeop/nuclear)
+
+
 ### Github Stats
 ![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamieeunice&theme=graywhite&show_icons=true)
 
