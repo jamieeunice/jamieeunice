@@ -10,7 +10,7 @@ Connect with me on [![LinkedIn][3.2]][3].
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a" />
   <img alt="Bash" src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" />
-  <img alt="Python" src="https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white />
+  <img alt="Python" src="https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white" />
 
 ### Articles
 For current and future articles browse my [Medium](https://jamieeunice.medium.com/).
