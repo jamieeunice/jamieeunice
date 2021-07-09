@@ -9,7 +9,7 @@ Connect with me on [![LinkedIn][3.2]][3].
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=4169E1" />
-  <img alt="Bash" src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" />
+  <img alt="Bash" src="https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=FFD500" />
   <img alt="Python" src="https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB" />
 
 ### Articles
