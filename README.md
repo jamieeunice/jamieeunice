@@ -6,6 +6,7 @@
 [<img align="left"  width="50px" src="https://cdn3.iconfinder.com/data/icons/fantasy-social-1/512/Twitter-1024.png" />][twitter]
 [<img align="left"  width="50px" src="https://cdn3.iconfinder.com/data/icons/fantasy-social-1/512/Google-1024.png" />][gmail]
 </br>
+</br>
 
 I'm an International Studies major turned Software Engineer. Instead of studying the world, I wanted to change *with* the world, so, I decided to become a Software Engineer. 
 
