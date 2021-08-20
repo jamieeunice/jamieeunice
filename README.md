@@ -2,7 +2,7 @@
 # First, :coffee:. Then, :keyboard:.
 
 
-[<img align="left"  width="30px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" />][linkedin]
+[<img align="left"  width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png" />][linkedin]
 [<img align="left"  width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_6-twitter-512.png" />][twitter]
 [<img align="left"  width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-1024.png" />][gmail]
 </br>
