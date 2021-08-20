@@ -2,9 +2,9 @@
 # First, :coffee:. Then, :keyboard:.
 
 
-[<img align="left"  width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png" />][linkedin]
-[<img align="left"  width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_6-twitter-512.png" />][twitter]
-[<img align="left"  width="28px" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-1024.png" />][gmail]
+[<img align="left"  width="25px" src="https://cdn3.iconfinder.com/data/icons/fantasy-social-1/512/LinkedIn-1024.png" />][linkedin]
+[<img align="left"  width="25px" src="https://cdn3.iconfinder.com/data/icons/fantasy-social-1/512/Twitter-1024.png" />][twitter]
+[<img align="left"  width="28px" src="https://cdn3.iconfinder.com/data/icons/fantasy-social-1/512/Google-1024.png" />][gmail]
 </br>
 
 I'm an International Studies major turned Software Engineer. Instead of studying the world, I wanted to change *with* the world, so, I decided to become a Software Engineer. 
