@@ -43,7 +43,7 @@ I'm an International Studies major turned Software Engineer. Instead of studying
 
 ### Utilities
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ### Current OSS Contributions
 [Nuclear](https://github.com/nukeop/nuclear)
