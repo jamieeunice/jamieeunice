@@ -11,7 +11,6 @@ For current and future articles browse my [Medium](https://jamieeunice.medium.co
 ### Current OSS Contributions
 [Nuclear](https://github.com/nukeop/nuclear)
 <br/>
-[Material-UI](https://github.com/mui-org/material-ui)
 
 ### Github Stats
 ![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamieeunice&theme=graywhite&show_icons=true)
