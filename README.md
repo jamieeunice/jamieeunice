@@ -40,11 +40,11 @@ I'm an International Studies major turned Software Engineer. Instead of studying
 ![Git](https://img.shields.io/badge/-Git-ffffff?style=flat&logo=git&logoColor=white)
 
 ### UI/UX
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-ffffff?style=flat&logo=figma&logoColor=white)
 
 ### Utilities
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-ffffff?style=flat&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-ffffff?style=flat&logo=visual-studio-code&logoColor=white)
 
 ### Current OSS Contributions
 [Nuclear](https://github.com/nukeop/nuclear)
