@@ -1,10 +1,9 @@
 
 # First, :coffee:. Then, :keyboard:.
 
-[<img align="left" | LinkedIn" width="25px" src="./linkedin.svg" />][linkedin]
+[<img align="left" | LinkedIn" width="25px" src="./linkedin.svg" />[linkedin]
 [<img align="left" | Twitter" width="25px" src="./twitter.svg" />][twitter]
 [<img align="left" | Gmail" width="25px" src="./gmail.svg" />][gmail]
-[Linkedin](https://www.linkedin.com/in/jamieeunice/) [Medium](https://jamieeunice.medium.com/) [Twitter](https://jamieeunice.medium.com/)
 
 I'm an International Studies major turned Software Engineer. Instead of studying the world, I wanted to change *with* the world, so, I decided to become a Software Engineer. 
 
