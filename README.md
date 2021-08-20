@@ -3,14 +3,10 @@
 
 I'm an International Studies major turned Software Engineer. Instead of studying the world, I wanted to change *with* the world, so, I decided to become a Software Engineer. 
 
-I recently graduated FullStack Academy's Bootcamp, and now I'm currently contributing to Open Source projects [see bellow](#currentosscontributions).
-
 ## Ongoing Projects
-
-
+[Fit Flex](https://github.com/jamieeunice/fit-flex) a social media app for fitness enthusiasts.
 
 ### Social Media
-
 [Linkedin](https://www.linkedin.com/in/jamieeunice/) [Medium](https://jamieeunice.medium.com/) [Twitter](https://jamieeunice.medium.com/)
 
 ### Lenguages and Technologies
