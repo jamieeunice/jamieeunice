@@ -1,5 +1,5 @@
 
-# First, :coffee:. Then, <img src="https://cdn0.iconfinder.com/data/icons/miscellaneous-59-solid/128/javascript_programming_software_coding_java-1024.png" width="25px"/>.
+# First, <img src="https://cdn0.iconfinder.com/data/icons/miscellaneous-59-solid/128/cup_coffee-cup_coffee_tea_beverage_-1024.png" width="25px"/>. Then, <img src="https://cdn0.iconfinder.com/data/icons/miscellaneous-59-solid/128/javascript_programming_software_coding_java-1024.png" width="25px"/>.
 
 
 [<img align="left"  width="50px" src="https://cdn3.iconfinder.com/data/icons/fantasy-social-1/512/LinkedIn-1024.png" />][linkedin]
