@@ -15,7 +15,7 @@ I'm an International Studies major turned Software Engineer. Instead of studying
 <br/>
 [Detre](https://github.com/jamieeunice/detre): Unfinished
 <br/>
-[Contact List](https://github.com/jamieeunice/visa-contact-list): Completed
+[Creative Contact List](https://github.com/jamieeunice/visa-contact-list): Completed
 <br/>
 [Moon Exhibition](https://github.com/jamieeunice/moon-exhibition): Completed
 <br/>
