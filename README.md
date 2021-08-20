@@ -25,7 +25,7 @@ I'm an International Studies major turned Software Engineer. Instead of studying
 <br/>
 
 ### Lenguages 
-![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
+![Javascript](https://img.shields.io/badge/-JavaScript-ffffff?style=flat&logo=javascript&logoColor=white)
 
 ### Applications and Data
 ![ReactJS](https://img.shields.io/badge/-ReactJS-ffffff?style=flat&logo=react&logoColor=white)
