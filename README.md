@@ -2,9 +2,9 @@
 # First, :coffee:. Then, :keyboard:.
 
 
-[<img align="left"  width="22px" src="./linkedin.svg" />][linkedin]
-[<img align="left"  width="22px" src="./twitter.svg" />][twitter]
-[<img align="left"  width="22px" src="./gmail.svg" />][gmail]
+[<img align="left"  width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
+[<img align="left"  width="22px" src="" />][twitter]
+[<img align="left"  width="22px" src="" />][gmail]
 </br>
 
 I'm an International Studies major turned Software Engineer. Instead of studying the world, I wanted to change *with* the world, so, I decided to become a Software Engineer. 
