@@ -1,5 +1,5 @@
 
-# First, :coffee:. Then, :keyboard:.
+# First, :coffee:. Then, <img src="https://cdn2.iconfinder.com/data/icons/programming-innovicons-black-and-white/128/button-JS-javascript-programming_language-computer_monitor-1024.png" />.
 
 
 [<img align="left"  width="50px" src="https://cdn3.iconfinder.com/data/icons/fantasy-social-1/512/LinkedIn-1024.png" />][linkedin]
