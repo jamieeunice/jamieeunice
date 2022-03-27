@@ -3,7 +3,6 @@
 
 
 [<img align="left"  width="50px" src="https://cdn3.iconfinder.com/data/icons/fantasy-social-1/512/LinkedIn-1024.png" />][linkedin]
-[<img align="left"  width="50px" src="https://cdn3.iconfinder.com/data/icons/fantasy-social-1/512/Twitter-1024.png" />][twitter]
 [<img align="left"  width="50px" src="https://cdn3.iconfinder.com/data/icons/fantasy-social-1/512/Google-1024.png" />][gmail]
 </br>
 </br>
@@ -24,6 +23,9 @@
 
 ### Lenguages 
 ![Javascript](https://img.shields.io/badge/-JavaScript-ffffff?style=flat&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-ffffff?style=flat&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-ffffff?style=flat&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/-Rails-ffffff?style=flat&logo=rails&logoColor=white)
 
 ### Applications and Data
 ![ReactJS](https://img.shields.io/badge/-ReactJS-ffffff?style=flat&logo=react&logoColor=white)
@@ -42,7 +44,6 @@
 
 ### Utilities
 ![Postman](https://img.shields.io/badge/-Postman-ffffff?style=flat&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-ffffff?style=flat&logo=visual-studio-code&logoColor=white)
 
 ### Current OSS Contributions
 [Nuclear](https://github.com/nukeop/nuclear)
@@ -54,5 +55,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/jamieeunice/
-[twitter]: https://www.twitter.com/jeimiyuniseu/
 [gmail]: jamieecarrasquillo@gmail.com
