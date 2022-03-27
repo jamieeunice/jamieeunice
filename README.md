@@ -8,8 +8,6 @@
 </br>
 </br>
 
-I'm an International Studies major turned Software Engineer. Instead of studying the world, I wanted to change *with* the world, so, I decided to become a Software Engineer. 
-
 ## Projects
 [Fit Flex](https://github.com/jamieeunice/fit-flex): In process
 <br/>
